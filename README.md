@@ -18,7 +18,7 @@ Built for the **USAII® Global AI Hackathon 2026**.
 |------------|---------------|
 | ![](assets/9.png) | ![](assets/10.png) |
 
-| Quest Details | My Quests |
+| Quest Details | Hotsposts Analysis |
 |--------------|-----------|
 | ![](assets/14.png) | ![](assets/6.png) |
 
