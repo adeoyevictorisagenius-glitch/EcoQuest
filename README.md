@@ -84,13 +84,14 @@ This helps schools move from reacting to environmental issues to preventing them
 
 ---
 
-### 🏆 Gamification
+### 🏆 Quest System
 
-Students earn
+Students become environmental heroes by:
 
-- Eco Points
-- Rankings
-- Achievements
+• Completing quests
+• Earning EcoPoints
+• Unlocking achievements
+• Climbing leaderboards
 
 transforming environmental action into an engaging experience.
 
