@@ -8,13 +8,28 @@ Built for the **USAII® Global AI Hackathon 2026**.
 
 ---
 
-## 📸 Screenshots
+# 📸 Screenshots
 
-> Add screenshots here before submitting.
+| Home | Create Quest |
+|------|--------------|
+| ![](assets/4.png) | ![](assets/15.png) |
 
-| Home | AI Report | Quest |
-|------|-----------|-------|
-| ![](docs/home.png) | ![](docs/report.png) | ![](docs/quest.png) |
+| AI Analysis | Available Quests |
+|------------|---------------|
+| ![](assets/9.png) | ![](assets/10.png) |
+
+| Quest Details | My Quests |
+|--------------|-----------|
+| ![](assets/14.png) | ![](assets/6.png) |
+
+| Leaderboard | Profile |
+|------------|---------|
+| ![](assets/2.png) | ![](assets/1.png) |
+
+| AI Command Center | Cleanup Verification |
+|-------------------|-----------------------|
+| ![](assets/7.png) | ![](assets/16.png) |
+
 
 ---
 
