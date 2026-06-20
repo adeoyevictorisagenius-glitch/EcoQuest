@@ -1,10 +1,24 @@
+<div align="center">
+
+<img src="assets/ecoquest_logo.png" alt="EcoQuest Logo" width="220"/>
+
 # 🌍 EcoQuest
 
-**EcoQuest** is an AI-powered environmental sustainability platform that transforms environmental problems into collaborative quests for students.
+### AI-Powered Environmental Sustainability Platform for Schools
 
-Instead of simply reporting litter or environmental hazards, students capture a photo, and EcoQuest AI analyzes the scene, estimates its impact, generates a quest, recommends the required volunteers and equipment, and rewards participants for completing it.
+**Transforming environmental problems into collaborative quests using Google Gemini AI.**
 
-Built for the **USAII® Global AI Hackathon 2026**.
+Built for the **USAII® Global AI Hackathon 2026**
+
+</div>
+
+---
+
+EcoQuest is an AI-powered environmental sustainability platform that transforms environmental problems into collaborative quests for students.
+
+Instead of simply reporting litter or environmental hazards, students capture a photo, and **EcoQuest AI** analyzes the scene, estimates its environmental impact, generates a collaborative quest, recommends the required volunteers and equipment, verifies completed cleanups using AI, and rewards participants for making their school cleaner.
+
+Beyond coordinating student action, EcoQuest provides school administrators with AI-generated sustainability reports that identify recurring environmental issues, measure cleanup impact, and recommend long-term solutions.
 
 ---
 
