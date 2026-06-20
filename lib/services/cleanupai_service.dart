@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 
 class CleanupAIService {
   static const String apiKey =
-      "AIzaSyBmaULFYHeMdrqoCdlfImap3YhMay5DzhU";
+      "API_KEY";
 
   static Future<String> verify({
     required Uint8List beforeBytes,
