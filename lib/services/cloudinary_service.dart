@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 
 class CloudinaryService {
   static const String cloudName = "djgekwsnu";
-  static const String uploadPreset = "grenx_unsigned";
+  static const String uploadPreset = "UPLOAD_PRESET";
 
   static Future<String> uploadImage(Uint8List imageBytes) async {
     final url = Uri.parse(
